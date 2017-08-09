@@ -1,6 +1,5 @@
 README.md         
-bin/
-game_logic        
+bin/       
 include/            
 lib/               
 pip-selfcheck.json
