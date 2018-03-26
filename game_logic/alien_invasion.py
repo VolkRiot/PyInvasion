@@ -16,6 +16,7 @@ def run_game():
 
     while True:
         gf.check_events(ship)
+        ship.update()
         # Watch for keyboard and watch events
 
         for event in pygame.event.get():
