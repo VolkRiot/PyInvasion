@@ -1,0 +1,32 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "8e53aecebfdffaf5b1892afba7924f3a07dd096e1ad46dd1999f2650d81b626e"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pygame": {
+            "hashes": [
+                "sha256:03fe0ee452d1c0eb8f6d73731ff6abb5ead9761b94c795b8233e9b94715602af",
+                "sha256:2566eb6284676e3ceeeb4c078629bafe7fce4712a8ced8af4593f2e7e1a1f445",
+                "sha256:5d5693ea877ca4f2cdb308a4fd7a2ae86dc205954199a8bfeda0b4222aba9059",
+                "sha256:aeaca50f6dd371823b58bd717b28c901ce0988bf53363752451b24387f173ed7",
+                "sha256:b589d05282681101cbf22e733bce0f82a632fe14e74e577da93a00973f665d6a"
+            ],
+            "index": "pypi",
+            "version": "==1.9.4.dev0"
+        }
+    },
+    "develop": {}
+}
